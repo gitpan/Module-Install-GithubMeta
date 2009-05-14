@@ -23,7 +23,5 @@ requires:
   Module::Install: 0.85
   perl: 5.6.0
 resources:
-  homepage: http://github.com/bingos/module-install-githubmeta/tree
   license: http://dev.perl.org/licenses/
-  repository: git://github.com/bingos/module-install-githubmeta.git
-version: 0.04
+version: 0.06
