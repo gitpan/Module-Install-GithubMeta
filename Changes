@@ -1,20 +1,71 @@
-Changelog for Module-Install-GithubMeta
-=======================================
+==============================
+2011-06-15 10:04:20 +0100 0.12
+==============================
 
-0.10	Sun Jun 14 10:00:10 BST 2009
-	- Add '-n' to the git remote command so it uses cached 
-	  status and doesn't query the remote.
+  commit a57958eb7bed963359f5a5425933344ccb3d485c
+  Author: Chris 'BinGOs' Williams <chris@bingosnet.co.uk>
+  Date:   Wed Jun 15 10:01:41 2011 +0100
+  
+    Update Change log generation and bump version
 
-0.08	Fri May 15 09:17:10 BST 2009
-	- Screwed up again. Actually check the cwd before searching up the tree.
+  commit 4153b0d9632e0a0528c093b0548900776541d3fd
+  Author: Shawn M Moore <sartak@bestpractical.com>
+  Date:   Wed Jun 15 08:14:54 2011 +0800
+  
+    Provide more information about the repository
 
-0.06	Thu May 14 13:53:18 BST 2009
-	- I screwed up, we do need to change back to the distribution directory
-	  after our search up the directory tree.
+    Moose uses this more verbose format 
 
-0.04	Thu May 14 13:08:13 BST 2009
-	- Don't blindly assume that there is a .git in the cwd
-	  recurse up the file system looking for it.
+==============================
+2009-06-14 10:02:32 +0100 0.10
+==============================
 
-0.02	Tue May  5 12:32:12 BST 2009
-	- Initial CPAN Release
+  commit fa8dcdf35bc6e400a301d253b701f8734f134289
+  Author: Chris Williams <chris@bingosnet.co.uk>
+  Date:   Sun Jun 14 10:02:32 2009 +0100
+  
+    Add '-n' to the git remote command so it uses cached status and
+    doesn't query the remote. 
+
+==============================
+2009-05-15 09:17:32 +0100 0.08
+==============================
+
+  commit f226c687c8ae211be6178b8e930dc1451af6b57e
+  Author: Chris Williams <chris@bingosnet.co.uk>
+  Date:   Fri May 15 09:17:32 2009 +0100
+  
+    Screwed up again. Actually check the cwd before searching up the
+    tree. 
+
+==============================
+2009-05-14 13:54:17 +0100 0.06
+==============================
+
+  commit 5f8d4dca8592041092b07badb3ff31e1eb13d6ab
+  Author: Chris Williams <chris@bingosnet.co.uk>
+  Date:   Thu May 14 13:54:17 2009 +0100
+  
+    I screwed up, we do need to change back to the distribution directory
+    after our search up the directory tree. 
+
+==============================
+2009-05-14 13:09:57 +0100 0.04
+==============================
+
+  commit 31d7e9ed6a2fda6513f087b7be3e290a06296b6f
+  Author: Chris Williams <chris@bingosnet.co.uk>
+  Date:   Thu May 14 13:09:57 2009 +0100
+  
+    Don't blindly assume that there is a .git in the cwd recurse up the
+    file system looking for it.
+
+  commit 45c2e2dc354a2eaeb520efa7c237d3b82e77113b
+  Author: Chris Williams <chris@bingosnet.co.uk>
+  Date:   Tue May 5 12:36:48 2009 +0100
+  
+    Removed have_make from MANIFEST 
+
+==============
+End of Excerpt
+==============
