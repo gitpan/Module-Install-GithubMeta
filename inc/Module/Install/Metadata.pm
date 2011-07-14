@@ -20,7 +20,6 @@ my @scalar_keys = qw{
 	module_name
 	abstract
 	version
-  dynamic_config
 	distribution_type
 	tests
 	installdirs
