@@ -1,4 +1,28 @@
 ==============================
+2011-10-27 21:01:57 +0100 0.16
+==============================
+
+  commit b452c411488bba6d64d036381c8fd43f365ad40f
+  Author: Chris 'BinGOs' Williams <chris@bingosnet.co.uk>
+  Date:   Thu Oct 27 21:01:57 2011 +0100
+  
+    Enable specifying an alternative remote instead of 'origin'
+
+  commit 90139ddd9ee9ca6a43f9e640bdf47791b9506580
+  Author: Chris 'BinGOs' Williams <chris@bingosnet.co.uk>
+  Date:   Thu Jul 14 23:04:02 2011 +0100
+  
+    Github urls are now https
+
+  commit 793fbd75a911ed36b8ac45b3a0d786d208673fc6
+  Author: Shawn M Moore <sartak@bestpractical.com>
+  Date:   Tue Jun 14 20:14:54 2011 -0400
+  
+    Provide more information about the repository
+
+    Moose uses this more verbose format 
+
+==============================
 2011-07-14 23:04:02 +0100 0.14
 ==============================
 
