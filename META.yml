@@ -23,7 +23,7 @@ no_index:
 provides:
   Module::Install::GithubMeta:
     file: lib/Module/Install/GithubMeta.pm
-    version: 0.18
+    version: 0.20
 requires:
   Module::Install: 0.85
   perl: 5.6.0
@@ -34,4 +34,4 @@ resources:
     type: git
     url: git://github.com/bingos/module-install-githubmeta.git
     web: https://github.com/bingos/module-install-githubmeta/tree
-version: 0.18
+version: 0.20
