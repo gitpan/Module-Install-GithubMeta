@@ -1,4 +1,14 @@
 ==============================
+2013-09-09 10:00:40 +0100 0.26
+==============================
+
+  commit ec3e97e5447c3fb0e6edc63f32af678518f1a546
+  Author: Chris 'BinGOs' Williams <chris@bingosnet.co.uk>
+  Date:   Mon Sep 9 09:58:47 2013 +0100
+  
+    Return to previous way of obtaining repository URL 
+
+==============================
 2013-08-23 20:36:10 +0100 0.24
 ==============================
 
@@ -107,6 +117,15 @@
   Date:   Thu Jul 14 23:04:02 2011 +0100
   
     Github urls are now https
+
+  commit aa94652ea296607a4ff4969eb1c2c20482301077
+  Merge: a57958e 793fbd7
+  Author: Ingy döt Net <ingy@ingy.net>
+  Date:   Wed Jun 15 02:38:07 2011 -0700
+  
+    Merge pull request #1 from sartak/master
+
+    Provide more information about the repository
 
   commit 793fbd75a911ed36b8ac45b3a0d786d208673fc6
   Author: Shawn M Moore <sartak@bestpractical.com>
